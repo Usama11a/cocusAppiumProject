@@ -1,4 +1,4 @@
-# cocusAppiumProject
+# CocusAppiumProject
 
 1. Install Appium GUI/CLI server on your machine
 2. Install node and set it in your envoirment varaibles
