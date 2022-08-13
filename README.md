@@ -6,6 +6,6 @@
 
 # Steps to run the test cases on your machine
 
-Create a new Maven project
-To run the Appium code on your machine you must have SDK manager in your machine
-Connect the mobile device/emulator and then run the positive_cases/Base_classs class
+1. Create a new Maven project
+2. To run the Appium code on your machine you must have SDK manager in your machine
+3. Connect the mobile device/emulator and then run the positive_cases/Base_classs class
