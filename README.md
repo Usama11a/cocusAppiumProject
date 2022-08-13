@@ -1,8 +1,8 @@
 # cocusAppiumProject
 
-Install Appium GUI/CLI server on your machine
-Install node and set it in your envoirment varaibles
-Install Eclipse IDE on your machine
+1. Install Appium GUI/CLI server on your machine
+2. Install node and set it in your envoirment varaibles
+3. Install Eclipse IDE on your machine
 
 # Steps to run the test cases on your machine
 
